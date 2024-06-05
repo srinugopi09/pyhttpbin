@@ -128,5 +128,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# FastAPI project specific
-main.py
+
